@@ -1,18 +1,20 @@
 {
   "name": "random-messages-by-ceyene",
   "version": "1.0.0",
-  "description": "Random messages",
+  "description": "This is a small but cute random messages application, made while doing a Platzi NPM course.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "javascript",
+    "random",
+    "messages",
     "node",
     "npm"
   ],
   "author": "Cynthia Romero",
-  "license": "ISC",
+  "license": "MIT",
   "bin": {
     "random-msg": "./bin/global.js"
   },
