@@ -5,7 +5,7 @@ This is a small but cute random messages application, made while doing a Platzi 
 ## Install
 
 ```npm
-npm install -g random-msg
+npm install -g random-messages-by-ceyene
 ```
 
 # Usage
