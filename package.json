@@ -1,6 +1,6 @@
 {
   "name": "random-messages-by-ceyene",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a small but cute random messages application, made while doing a Platzi NPM course.",
   "main": "src/index.js",
   "scripts": {
